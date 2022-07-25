@@ -1,0 +1,1986 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.missmedias.com" resolutions="1x" timestamp="1658724368005">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="4162906183" ref="index:catálogo:bebés:back-to-class:niños:descuentos:visítanos:información:tienda-física:hombres:mujeres:métodos-de-envío:redes-sociales:métodos-de-pago:infantil"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="440435544" ref="index:catálogo:bebés:back-to-class:niños:descuentos:visítanos:información:tienda-física:hombres:mujeres:métodos-de-envío:redes-sociales:métodos-de-pago:infantil"/>
+    <file name="index.css" crc="4289178571" ref="index"/>
+    <file name="nomq_index.css" crc="4036657896" ref="index"/>
+    <file name="cat_logo.css" crc="3823747996" ref="catálogo"/>
+    <file name="nomq_cat_logo.css" crc="3888562028" ref="catálogo"/>
+    <file name="beb_s.css" crc="4229688359" ref="bebés"/>
+    <file name="nomq_beb_s.css" crc="3822339907" ref="bebés"/>
+    <file name="back-to-class.css" crc="3952869329" ref="back-to-class"/>
+    <file name="nomq_back-to-class.css" crc="3945667446" ref="back-to-class"/>
+    <file name="ni_os.css" crc="333710562" ref="niños"/>
+    <file name="nomq_ni_os.css" crc="196275517" ref="niños"/>
+    <file name="descuentos.css" crc="4074997155" ref="descuentos"/>
+    <file name="nomq_descuentos.css" crc="3814708132" ref="descuentos"/>
+    <file name="vis_tanos.css" crc="377703529" ref="visítanos"/>
+    <file name="nomq_vis_tanos.css" crc="4251715006" ref="visítanos"/>
+    <file name="informaci_n.css" crc="349490143" ref="información"/>
+    <file name="nomq_informaci_n.css" crc="24551967" ref="información"/>
+    <file name="tienda-f_sica.css" crc="208124506" ref="tienda-física"/>
+    <file name="nomq_tienda-f_sica.css" crc="3872511155" ref="tienda-física"/>
+    <file name="hombres.css" crc="3894372022" ref="hombres"/>
+    <file name="nomq_hombres.css" crc="4068673119" ref="hombres"/>
+    <file name="mujeres.css" crc="4164396102" ref="mujeres"/>
+    <file name="nomq_mujeres.css" crc="3975964922" ref="mujeres"/>
+    <file name="m_todos-de-env_o.css" crc="3898427319" ref="métodos-de-envío"/>
+    <file name="nomq_m_todos-de-env_o.css" crc="245124874" ref="métodos-de-envío"/>
+    <file name="redes-sociales.css" crc="3864224658" ref="redes-sociales"/>
+    <file name="nomq_redes-sociales.css" crc="4267104061" ref="redes-sociales"/>
+    <file name="m_todos-de-pago.css" crc="206833288" ref="métodos-de-pago"/>
+    <file name="nomq_m_todos-de-pago.css" crc="442713557" ref="métodos-de-pago"/>
+    <file name="infantil.css" crc="3944707298" ref="infantil"/>
+    <file name="nomq_infantil.css" crc="4275110392" ref="infantil"/>
+  </folder>
+  <folder name="assets">
+    <file name="imagenes_descuentos_class_1b.png" crc="3919542149" seo="true" mt="1658536113000"/>
+    <file name="imagenes_descuentos_class_2b.png" crc="318291031" seo="true" mt="1658536439000"/>
+    <file name="imagenes_descuentos_class_3b.png" crc="416502586" seo="true" mt="1658536653000"/>
+    <file name="imagenes_descuentos_class_8b.png" crc="417351506" seo="true" mt="1658536812000"/>
+    <file name="imagenes_descuentos_class_4b.png" crc="77871612" seo="true" mt="1658608602000"/>
+    <file name="imagenes_descuentos_class_6b.png" crc="380318921" seo="true" mt="1658608749000"/>
+    <file name="imagenes_descuentos_class_5b.png" crc="48531667" seo="true" mt="1658608910000"/>
+    <file name="imagenes_descuentos_class_7b.png" crc="4199273746" seo="true" mt="1658609197000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños:información:métodos-de-envío:métodos-de-pago:descuentos:back-to-class:visítanos:tienda-física:redes-sociales"/>
+    <file name="museutils.js" crc="3939489907" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños:información:métodos-de-envío:métodos-de-pago:descuentos:back-to-class:visítanos:tienda-física:redes-sociales"/>
+    <file name="whatinput.js" crc="86476730" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños:información:métodos-de-envío:métodos-de-pago:descuentos:back-to-class:visítanos:tienda-física:redes-sociales"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños:información:métodos-de-envío:métodos-de-pago:descuentos:back-to-class:visítanos:tienda-física:redes-sociales"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños:información:métodos-de-envío:métodos-de-pago:descuentos:back-to-class:visítanos:tienda-física:redes-sociales"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños:información:métodos-de-envío:métodos-de-pago:descuentos:back-to-class:visítanos:tienda-física:redes-sociales"/>
+    <file name="webpro.js" crc="3856315280" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños:información:métodos-de-envío:métodos-de-pago:descuentos:back-to-class:visítanos:tienda-física:redes-sociales"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños:información:métodos-de-envío:métodos-de-pago:descuentos:back-to-class:visítanos:tienda-física:redes-sociales"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños:información:métodos-de-envío:métodos-de-pago:descuentos:back-to-class:visítanos:tienda-física:redes-sociales"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños:información:métodos-de-envío:métodos-de-pago:descuentos:back-to-class:visítanos:tienda-física:redes-sociales"/>
+    <file name="require.js" crc="4177726516" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños:información:métodos-de-envío:métodos-de-pago:descuentos:back-to-class:visítanos:tienda-física:redes-sociales"/>
+    <file name="form_check.php" crc="4108222811" ref="métodos-de-envío"/>
+    <file name="form_throttle.php" crc="503802655" ref="métodos-de-envío"/>
+    <file name="form_process.php" crc="260214869" ref="métodos-de-envío"/>
+    <file name="form-u16726.php" crc="4254320797" ref="métodos-de-envío"/>
+    <file name="form-u17798.php" crc="247031161" ref="métodos-de-envío"/>
+  </folder>
+  <folder name="images">
+    <file name="miss_medias_horizontal.png" crc="120143002" seo="true" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños:información:métodos-de-envío:métodos-de-pago:descuentos:back-to-class:visítanos:tienda-física:redes-sociales">
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+      <caption webpage="hombres" alt=""/>
+      <caption webpage="hombres" alt=""/>
+      <caption webpage="hombres" alt=""/>
+      <caption webpage="hombres" alt=""/>
+      <caption webpage="hombres" alt=""/>
+      <caption webpage="hombres" alt=""/>
+      <caption webpage="hombres" alt=""/>
+      <caption webpage="hombres" alt=""/>
+      <caption webpage="visítanos" alt=""/>
+      <caption webpage="visítanos" alt=""/>
+      <caption webpage="visítanos" alt=""/>
+      <caption webpage="visítanos" alt=""/>
+      <caption webpage="visítanos" alt=""/>
+      <caption webpage="visítanos" alt=""/>
+      <caption webpage="visítanos" alt=""/>
+      <caption webpage="visítanos" alt=""/>
+      <caption webpage="descuentos" alt=""/>
+      <caption webpage="descuentos" alt=""/>
+      <caption webpage="descuentos" alt=""/>
+      <caption webpage="descuentos" alt=""/>
+      <caption webpage="descuentos" alt=""/>
+      <caption webpage="descuentos" alt=""/>
+      <caption webpage="descuentos" alt=""/>
+      <caption webpage="descuentos" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="información" alt=""/>
+      <caption webpage="información" alt=""/>
+      <caption webpage="información" alt=""/>
+      <caption webpage="información" alt=""/>
+      <caption webpage="información" alt=""/>
+      <caption webpage="información" alt=""/>
+      <caption webpage="información" alt=""/>
+      <caption webpage="información" alt=""/>
+      <caption webpage="back-to-class" alt=""/>
+      <caption webpage="back-to-class" alt=""/>
+      <caption webpage="back-to-class" alt=""/>
+      <caption webpage="back-to-class" alt=""/>
+      <caption webpage="back-to-class" alt=""/>
+      <caption webpage="back-to-class" alt=""/>
+      <caption webpage="back-to-class" alt=""/>
+      <caption webpage="back-to-class" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="mujeres" alt=""/>
+      <caption webpage="mujeres" alt=""/>
+      <caption webpage="mujeres" alt=""/>
+      <caption webpage="mujeres" alt=""/>
+      <caption webpage="mujeres" alt=""/>
+      <caption webpage="mujeres" alt=""/>
+      <caption webpage="mujeres" alt=""/>
+      <caption webpage="mujeres" alt=""/>
+      <caption webpage="bebés" alt=""/>
+      <caption webpage="bebés" alt=""/>
+      <caption webpage="bebés" alt=""/>
+      <caption webpage="bebés" alt=""/>
+      <caption webpage="bebés" alt=""/>
+      <caption webpage="bebés" alt=""/>
+      <caption webpage="bebés" alt=""/>
+      <caption webpage="bebés" alt=""/>
+      <caption webpage="catálogo" alt=""/>
+      <caption webpage="catálogo" alt=""/>
+      <caption webpage="catálogo" alt=""/>
+      <caption webpage="catálogo" alt=""/>
+      <caption webpage="catálogo" alt=""/>
+      <caption webpage="catálogo" alt=""/>
+      <caption webpage="catálogo" alt=""/>
+      <caption webpage="catálogo" alt=""/>
+      <caption webpage="tienda-física" alt=""/>
+      <caption webpage="tienda-física" alt=""/>
+      <caption webpage="tienda-física" alt=""/>
+      <caption webpage="tienda-física" alt=""/>
+      <caption webpage="tienda-física" alt=""/>
+      <caption webpage="tienda-física" alt=""/>
+      <caption webpage="tienda-física" alt=""/>
+      <caption webpage="tienda-física" alt=""/>
+    </file>
+    <file name="banner_1_home_1920.jpg" crc="399689259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños:información:métodos-de-envío:métodos-de-pago:descuentos:back-to-class:visítanos:tienda-física:redes-sociales"/>
+    <file name="banner_5_home_1920.jpg" crc="361703292" seo="true" ref="index:hombres">
+      <caption webpage="index" alt=""/>
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="banner_2_home_1920.jpg" crc="4006807870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_3_home_1920.jpg" crc="4231152747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_4_home_1920.jpg" crc="3776670031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:catálogo:mujeres:hombres:infantil:bebés:niños"/>
+    <file name="img_1_home.jpg" crc="522473578" seo="true" ref="index:descuentos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="descuentos" alt=""/>
+    </file>
+    <file name="banner_6_home_1920.jpg" crc="4275727858" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_1_home_19201200x344.jpg" crc="286286912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_5_home_19201200x344.jpg" crc="3927319880" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_2_home_19201200x344.jpg" crc="320612353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_3_home_19201200x344.jpg" crc="4271586979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_4_home_19201200x344.jpg" crc="59198522" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1_home500x313.jpg" crc="102699218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_6_home_19201200x344.jpg" crc="4124585966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_1_home_1920765x219.jpg" crc="64251223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_5_home_1920765x219.jpg" crc="337109470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_2_home_1920765x219.jpg" crc="76743426" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_3_home_1920765x219.jpg" crc="196985396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_4_home_1920765x219.jpg" crc="523907788" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3lines.png" crc="261020124" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1_home534x334.jpg" crc="336477787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_6_home_1920768x220.jpg" crc="331215620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_1_home_1920320x92.jpg" crc="272698341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_5_home_1920320x92.jpg" crc="4054859195" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_2_home_1920320x92.jpg" crc="31473373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_3_home_1920320x92.jpg" crc="222553856" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_4_home_1920320x92.jpg" crc="4004194361" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_1_home239x150.jpg" crc="4182193337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_6_home_1920320x92.jpg" crc="63805943" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner_1_catálogo_mujeres_1920.jpg" crc="4102157406" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="banner_2_catálogo_bebé_1920.jpg" crc="126749711" seo="true" ref="catálogo:infantil:bebés">
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="bebés" alt=""/>
+      <caption webpage="catálogo" alt=""/>
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_medias_h_1-crop-u14012.jpg" crc="146258363" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_medias_h_2-crop-u14107.jpg" crc="500618455" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_1.jpg" crc="401345339" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_3.jpg" crc="3992549014" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_4.jpg" crc="3852674718" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_2.jpg" crc="4001229171" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="banner_1_catálogo_mujeres_19201200x344.jpg" crc="386703368" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="banner_2_catálogo_bebé_1920-crop-u13975.jpg" crc="3901990724" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_medias_h_1-crop-u140122.jpg" crc="3811040980" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_medias_h_2-crop-u141072.jpg" crc="443186346" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_1250x250.jpg" crc="4024043051" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_3250x250.jpg" crc="4137579890" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_4250x250.jpg" crc="3789955669" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_2250x250.jpg" crc="30115933" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="banner_1_catálogo_mujeres_1920768x220.jpg" crc="169599327" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="banner_2_catálogo_bebé_1920768x220.jpg" crc="477243782" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_medias_h_1-crop-u140123.jpg" crc="194877775" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_medias_h_2-crop-u141073.jpg" crc="146750222" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_1294x294.jpg" crc="348906287" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_3294x294.jpg" crc="3920977086" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_4294x294.jpg" crc="3774913350" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_2294x294.jpg" crc="359876764" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_medias_h_1-crop-u140124.jpg" crc="413687757" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_medias_h_2-crop-u141074.jpg" crc="182389227" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_1147x147.jpg" crc="4016103279" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_3147x147.jpg" crc="17259185" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_4147x147.jpg" crc="4160122966" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="img_compras_2147x147.jpg" crc="275907383" seo="true" ref="catálogo">
+      <caption webpage="catálogo" alt=""/>
+    </file>
+    <file name="banners_catálogo_mujer.jpg" crc="355299106" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_a-crop-u18714.jpg" crc="4246377128" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_b-crop-u18907.jpg" crc="4180645024" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_a.jpg" crc="26965226" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_b.jpg" crc="523289814" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_a-crop-u19374.jpg" crc="166473938" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_b-crop-u19427.jpg" crc="442264188" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_a.jpg" crc="165039145" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_b.jpg" crc="233342835" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_a-crop-u19703.jpg" crc="3952862942" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_c-crop-u19809.jpg" crc="4185626989" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_b-crop-u19756.jpg" crc="4053187678" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_a.jpg" crc="4290321056" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_b.jpg" crc="382808640" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_c.jpg" crc="4160149645" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_a-crop-u20128.jpg" crc="4242193821" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_b-crop-u20181.jpg" crc="4116041142" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_a.jpg" crc="499735972" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_b.jpg" crc="319370046" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_a-crop-u20645.jpg" crc="3829781584" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_b-crop-u20698.jpg" crc="91923595" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_a.jpg" crc="3870424476" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_b.jpg" crc="450369106" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_a-crop-u20961.jpg" crc="209827287" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_b-crop-u21014.jpg" crc="18932644" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_a.jpg" crc="4142039616" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_b.jpg" crc="4053686683" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_a-crop-u21277.jpg" crc="23482140" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_b-crop-u21330.jpg" crc="4252863328" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_a.jpg" crc="477485375" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_b.jpg" crc="4084871485" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_a-crop-u21593.jpg" crc="496603728" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_b-crop-u21646.jpg" crc="4192223329" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_a.jpg" crc="4281209824" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_b.jpg" crc="4054192831" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="banners_catálogo_mujer1200x344.jpg" crc="457571040" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_a-crop-u187142.jpg" crc="458487402" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_b-crop-u189072.jpg" crc="4205629366" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_a250x375.jpg" crc="3942629574" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_b250x375.jpg" crc="488007321" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_a-crop-u193742.jpg" crc="3932906439" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_b-crop-u194272.jpg" crc="73648115" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_a-crop-u19356.jpg" crc="3897506677" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_b-crop-u19412.jpg" crc="31903499" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_a-crop-u197032.jpg" crc="48680102" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_c-crop-u198092.jpg" crc="235916054" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_b-crop-u197562.jpg" crc="3852244013" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_a-crop-u19685.jpg" crc="3941544792" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_b-crop-u19741.jpg" crc="4019635848" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_c-crop-u19794.jpg" crc="4160195260" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_a-crop-u201282.jpg" crc="4214917429" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_b-crop-u201812.jpg" crc="255586738" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_a-crop-u20110.jpg" crc="4004385586" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_b-crop-u20166.jpg" crc="264406400" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_a-crop-u206452.jpg" crc="4227451784" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_b-crop-u206982.jpg" crc="412846354" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_a-crop-u20627.jpg" crc="129853352" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_b-crop-u20683.jpg" crc="4210239928" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_a-crop-u209612.jpg" crc="393377488" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_b-crop-u210142.jpg" crc="3946598037" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_a-crop-u20943.jpg" crc="216128764" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_b-crop-u20999.jpg" crc="455685534" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_a-crop-u212772.jpg" crc="3788338056" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_b-crop-u213302.jpg" crc="4021095782" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_a-crop-u21259.jpg" crc="4198169047" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_b-crop-u21315.jpg" crc="3910758083" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_a-crop-u215932.jpg" crc="273293411" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_b-crop-u216462.jpg" crc="529115094" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_a-crop-u21575.jpg" crc="3874753573" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_b-crop-u21631.jpg" crc="3868340827" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="banners_catálogo_mujer768x220.jpg" crc="108949056" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_a-crop-u187143.jpg" crc="4258695074" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_b-crop-u189073.jpg" crc="3845259207" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_a-crop-u18697.jpg" crc="119939919" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_b167x250.jpg" crc="92963427" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_a-crop-u193743.jpg" crc="486097612" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_b-crop-u194273.jpg" crc="190910305" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_a-crop-u193562.jpg" crc="3964568984" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_b-crop-u194122.jpg" crc="4259226257" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_a-crop-u197033.jpg" crc="4005150360" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_c-crop-u198093.jpg" crc="110506387" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_b-crop-u197563.jpg" crc="4033522647" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_a-crop-u196852.jpg" crc="4221769208" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_b-crop-u197412.jpg" crc="296042466" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_c-crop-u197942.jpg" crc="118945445" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_a-crop-u201283.jpg" crc="347809952" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_b-crop-u201813.jpg" crc="3834259668" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_a-crop-u201102.jpg" crc="332528896" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_b-crop-u201662.jpg" crc="3901259556" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_a-crop-u206453.jpg" crc="345516558" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_b-crop-u206983.jpg" crc="94650727" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_a-crop-u206272.jpg" crc="3759601631" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_b-crop-u206832.jpg" crc="4262545273" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_a-crop-u209613.jpg" crc="53423153" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_b-crop-u210143.jpg" crc="361042781" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_a-crop-u209432.jpg" crc="4248650524" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_b-crop-u209992.jpg" crc="73245137" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_a-crop-u212773.jpg" crc="207024350" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_b-crop-u213303.jpg" crc="4063389977" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_a-crop-u212592.jpg" crc="74328021" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_b-crop-u213152.jpg" crc="3941316723" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_a-crop-u215933.jpg" crc="404916420" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_b-crop-u216463.jpg" crc="4200183561" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_a-crop-u215752.jpg" crc="305582825" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_b-crop-u216312.jpg" crc="4055988754" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="banners_catálogo_mujer320x92.jpg" crc="3951704466" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_a-crop-u187144.jpg" crc="285458680" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_b-crop-u189074.jpg" crc="3981809279" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_a-crop-u186972.jpg" crc="4144506780" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a1_b91x136.jpg" crc="4273337733" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_a-crop-u193744.jpg" crc="96907918" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_b-crop-u194274.jpg" crc="103730256" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_a-crop-u193563.jpg" crc="211597290" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a2_b-crop-u194123.jpg" crc="4263422082" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_a-crop-u197034.jpg" crc="280460460" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_c-crop-u198094.jpg" crc="78936176" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_b-crop-u197564.jpg" crc="96143929" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_a-crop-u196853.jpg" crc="181234784" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_b-crop-u197413.jpg" crc="3849414702" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a3_c-crop-u197943.jpg" crc="515040043" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_a-crop-u201284.jpg" crc="3977528810" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_b-crop-u201814.jpg" crc="322649580" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_a-crop-u201103.jpg" crc="247780631" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a4_b-crop-u201663.jpg" crc="3900335423" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_a-crop-u206454.jpg" crc="259328309" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_b-crop-u206984.jpg" crc="269002702" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_a-crop-u206273.jpg" crc="9762613" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a5_b-crop-u206833.jpg" crc="150081351" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_a-crop-u209614.jpg" crc="3827263589" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_b-crop-u210144.jpg" crc="3792581019" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_a-crop-u209433.jpg" crc="3766170796" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a6_b-crop-u209993.jpg" crc="4080574246" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_a-crop-u212774.jpg" crc="147576496" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_b-crop-u213304.jpg" crc="4064280794" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_a-crop-u212593.jpg" crc="116619476" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a7_b-crop-u213153.jpg" crc="513470238" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_a-crop-u215934.jpg" crc="100721095" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_b-crop-u216464.jpg" crc="409931675" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_a-crop-u215753.jpg" crc="3981083183" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="a8_b-crop-u216313.jpg" crc="376951402" seo="true" ref="mujeres">
+      <caption webpage="mujeres" alt=""/>
+    </file>
+    <file name="b1_a-crop-u21862.jpg" crc="136351128" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_b-crop-u22056.jpg" crc="4159009400" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_a.jpg" crc="4241053888" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_b.jpg" crc="3846614508" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_a-crop-u22325.jpg" crc="4138530305" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_b-crop-u22378.jpg" crc="483760358" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_a.jpg" crc="3765574002" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_b.jpg" crc="237982086" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_a-crop-u22645.jpg" crc="3972607721" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_b-crop-u22698.jpg" crc="3799677191" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_a.jpg" crc="351543405" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_b.jpg" crc="192894632" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_a-crop-u22961.jpg" crc="3760216629" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_b-crop-u23014.jpg" crc="184669391" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_a.jpg" crc="251368975" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_b.jpg" crc="492245214" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_a-crop-u229612.jpg" crc="3867682474" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_b-crop-u230142.jpg" crc="4290646042" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_a-crop-u22943.jpg" crc="3832373918" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_b-crop-u22999.jpg" crc="170196592" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_a-crop-u226452.jpg" crc="3840520826" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_b-crop-u226982.jpg" crc="497883512" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_a-crop-u22627.jpg" crc="4247029356" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_b-crop-u22683.jpg" crc="404472602" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_a-crop-u223252.jpg" crc="218056866" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_b-crop-u223782.jpg" crc="3794248398" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_a-crop-u22307.jpg" crc="372615348" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_b-crop-u22363.jpg" crc="8865998" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_a-crop-u218622.jpg" crc="180260838" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_b-crop-u220562.jpg" crc="3836634234" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_a250x375.jpg" crc="3761880478" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_b250x375.jpg" crc="4021537520" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="banner_5_home_1920768x220.jpg" crc="4223898297" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_a-crop-u218623.jpg" crc="135822288" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_b-crop-u220563.jpg" crc="24357659" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_a288x432.jpg" crc="98164208" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_b167x250.jpg" crc="4090027671" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_a-crop-u223253.jpg" crc="496207258" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_b-crop-u223783.jpg" crc="3848813632" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_a-crop-u223072.jpg" crc="384612634" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_b-crop-u223632.jpg" crc="138352979" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_a-crop-u226453.jpg" crc="4289855570" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_b-crop-u226983.jpg" crc="3966928765" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_a-crop-u226272.jpg" crc="151650964" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_b-crop-u226832.jpg" crc="453946804" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_a-crop-u229613.jpg" crc="410926251" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_b-crop-u230143.jpg" crc="4290344071" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_a-crop-u229432.jpg" crc="440806497" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_b-crop-u229992.jpg" crc="326546660" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_a-crop-u218624.jpg" crc="168644229" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_b-crop-u220564.jpg" crc="3848886594" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_a-crop-u21849.jpg" crc="3989798977" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b1_b102x153.jpg" crc="3949393747" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_a-crop-u223254.jpg" crc="4031538326" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_b-crop-u223784.jpg" crc="382239783" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_a-crop-u223073.jpg" crc="85192863" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b2_b-crop-u223633.jpg" crc="356364763" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_a-crop-u226454.jpg" crc="4102529808" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_b-crop-u226984.jpg" crc="3841490248" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_a-crop-u226273.jpg" crc="482611701" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b3_b-crop-u226833.jpg" crc="46046741" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_a-crop-u229614.jpg" crc="4280389801" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_b-crop-u230144.jpg" crc="4250570063" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_a-crop-u229433.jpg" crc="4271189437" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="b4_b-crop-u229993.jpg" crc="172444885" seo="true" ref="hombres">
+      <caption webpage="hombres" alt=""/>
+    </file>
+    <file name="banners_niños.jpg" crc="192428787" seo="true" ref="infantil:niños">
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="imagenes_square_niñas.jpg" crc="145421057" seo="true" ref="infantil:niños">
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="imagenes_square_niños.jpg" crc="275744787" seo="true" ref="infantil:niños">
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="imagenes_square_bebés.jpg" crc="101330382" seo="true" ref="infantil">
+      <caption webpage="infantil" alt=""/>
+      <caption webpage="infantil" alt=""/>
+    </file>
+    <file name="banner_2_catálogo_bebé_1920-crop-u30057.jpg" crc="3901990724" seo="true" ref="infantil">
+      <caption webpage="infantil" alt=""/>
+    </file>
+    <file name="banners_niños1200x344.jpg" crc="4099706814" seo="true" ref="infantil">
+      <caption webpage="infantil" alt=""/>
+    </file>
+    <file name="banner_2_catálogo_bebé_1920-crop-u300572.jpg" crc="3808782652" seo="true" ref="infantil">
+      <caption webpage="infantil" alt=""/>
+    </file>
+    <file name="banners_niños-crop-u30251.jpg" crc="307437474" seo="true" ref="infantil">
+      <caption webpage="infantil" alt=""/>
+    </file>
+    <file name="imagenes_square_niñas240x240.jpg" crc="3932601685" seo="true" ref="infantil">
+      <caption webpage="infantil" alt=""/>
+    </file>
+    <file name="imagenes_square_niños240x240.jpg" crc="4043658920" seo="true" ref="infantil">
+      <caption webpage="infantil" alt=""/>
+    </file>
+    <file name="imagenes_square_bebés240x240.jpg" crc="9587781" seo="true" ref="infantil">
+      <caption webpage="infantil" alt=""/>
+    </file>
+    <file name="banner_2_catálogo_bebé_1920-crop-u300573.jpg" crc="3844642489" seo="true" ref="infantil">
+      <caption webpage="infantil" alt=""/>
+    </file>
+    <file name="banners_niños320x92.jpg" crc="395288568" seo="true" ref="infantil">
+      <caption webpage="infantil" alt=""/>
+    </file>
+    <file name="imagenes_square_niñas90x90.jpg" crc="3989704676" seo="true" ref="infantil">
+      <caption webpage="infantil" alt=""/>
+    </file>
+    <file name="imagenes_square_niños90x90.jpg" crc="4244412393" seo="true" ref="infantil">
+      <caption webpage="infantil" alt=""/>
+    </file>
+    <file name="imagenes_square_bebés90x90.jpg" crc="4118951199" seo="true" ref="infantil">
+      <caption webpage="infantil" alt=""/>
+    </file>
+    <file name="c5_a-crop-u23396.jpg" crc="521661725" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c5_b-crop-u23449.jpg" crc="334601239" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c5_a.jpg" crc="3910532838" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c5_b.jpg" crc="4194022960" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_a-crop-u23905.jpg" crc="4020106206" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_b-crop-u23958.jpg" crc="4221695718" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_a.jpg" crc="203550226" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_b.jpg" crc="3807877370" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_a-crop-u24414.jpg" crc="492340608" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_b-crop-u24467.jpg" crc="430092228" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_a.jpg" crc="126739981" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_b.jpg" crc="525794142" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_a-crop-u24923.jpg" crc="53181980" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_b-crop-u24976.jpg" crc="4191512977" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_a.jpg" crc="337521725" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_b.jpg" crc="515520526" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_a-crop-u25432.jpg" crc="4250833232" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_b-crop-u25485.jpg" crc="459369598" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_a.jpg" crc="154302896" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_b.jpg" crc="156838621" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="banner_2_catálogo_bebé_19201200x344.jpg" crc="3896532339" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c5_a-crop-u233962.jpg" crc="4060590359" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c5_b-crop-u234492.jpg" crc="329254062" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_a-crop-u239052.jpg" crc="4091746966" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_b-crop-u239582.jpg" crc="4152517558" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_a-crop-u23887.jpg" crc="3928251809" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_b-crop-u23943.jpg" crc="165095619" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_a-crop-u244142.jpg" crc="4226200580" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_b-crop-u244672.jpg" crc="4096672086" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_a-crop-u24396.jpg" crc="402886042" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_b-crop-u24452.jpg" crc="3916860739" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_a-crop-u249232.jpg" crc="3961329300" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_b-crop-u249762.jpg" crc="3944032840" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_a-crop-u24905.jpg" crc="142295842" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_b-crop-u24961.jpg" crc="4130083956" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_a-crop-u254322.jpg" crc="405228876" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_b-crop-u254852.jpg" crc="4243898903" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_a-crop-u25414.jpg" crc="3908451112" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_b-crop-u25470.jpg" crc="502955447" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c5_a-crop-u233963.jpg" crc="232679941" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c5_b-crop-u234493.jpg" crc="4057333553" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c5_a-crop-u23378.jpg" crc="4105664040" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c5_b-crop-u23434.jpg" crc="439090841" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_a-crop-u239053.jpg" crc="328452591" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_b-crop-u239583.jpg" crc="4273513962" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_a-crop-u238872.jpg" crc="393861714" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_b-crop-u239432.jpg" crc="383805743" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_a-crop-u244143.jpg" crc="328839864" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_b-crop-u244673.jpg" crc="4127874487" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_a-crop-u243962.jpg" crc="91259451" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_b-crop-u244522.jpg" crc="526951698" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_a-crop-u249233.jpg" crc="467091015" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_b-crop-u249763.jpg" crc="4257838988" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_a-crop-u249052.jpg" crc="4094131328" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_b-crop-u249612.jpg" crc="4071246540" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_a-crop-u254323.jpg" crc="3907718962" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_b-crop-u254853.jpg" crc="4176886052" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_a-crop-u254142.jpg" crc="232818392" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_b-crop-u254702.jpg" crc="11270330" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="banner_2_catálogo_bebé_1920320x92.jpg" crc="4240217579" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c5_a-crop-u233964.jpg" crc="3834029193" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c5_b-crop-u234494.jpg" crc="189819977" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c5_a-crop-u233782.jpg" crc="3883776345" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c5_b-crop-u234342.jpg" crc="4214622761" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_a-crop-u239054.jpg" crc="533079998" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_b-crop-u239584.jpg" crc="84102666" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_a-crop-u238873.jpg" crc="437248825" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c4_b-crop-u239433.jpg" crc="4054573551" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_a-crop-u244144.jpg" crc="4283906867" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_b-crop-u244674.jpg" crc="13476488" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_a-crop-u243963.jpg" crc="3788264047" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c3_b-crop-u244523.jpg" crc="304825803" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_a-crop-u249234.jpg" crc="408241209" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_b-crop-u249764.jpg" crc="188655537" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_a-crop-u249053.jpg" crc="3993856791" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c2_b-crop-u249613.jpg" crc="4278601228" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_a-crop-u254324.jpg" crc="3900276161" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_b-crop-u254854.jpg" crc="423931696" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_a-crop-u254143.jpg" crc="3850871572" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="c1_b-crop-u254703.jpg" crc="3847533241" seo="true" ref="bebés">
+      <caption webpage="bebés" alt=""/>
+    </file>
+    <file name="d1_a-crop-u25930.jpg" crc="3833645860" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d1_b-crop-u25983.jpg" crc="374637962" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d1_a.jpg" crc="4039955699" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d1_b.jpg" crc="3899763455" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_a-crop-u26483.jpg" crc="34108414" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_b-crop-u26536.jpg" crc="4128500232" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_a.jpg" crc="3921776233" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_b.jpg" crc="4289707605" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_a-crop-u26992.jpg" crc="3760505482" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_b-crop-u27045.jpg" crc="162158954" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_a.jpg" crc="97760982" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_b.jpg" crc="4157822084" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_a-crop-u27887.jpg" crc="4225585241" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_b-crop-u27940.jpg" crc="4219565396" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_a.jpg" crc="182940743" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_b.jpg" crc="4080506932" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_a-crop-u28543.jpg" crc="3847287119" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_b-crop-u28596.jpg" crc="4108513551" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_a.jpg" crc="3876128419" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_b.jpg" crc="3769772752" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_a-crop-u28859.jpg" crc="291091939" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_b-crop-u28912.jpg" crc="145014758" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_a.jpg" crc="3985662905" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_b.jpg" crc="3838892469" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_a-crop-u29368.jpg" crc="3980218466" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_b-crop-u29421.jpg" crc="53437316" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_a.jpg" crc="4118708756" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_b.jpg" crc="165034172" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_a-crop-u29877.jpg" crc="4106122130" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_b-crop-u29930.jpg" crc="3922217989" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_a.jpg" crc="4015926291" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_b.jpg" crc="4190457576" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d1_a-crop-u259302.jpg" crc="413704052" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d1_b-crop-u259832.jpg" crc="4205523265" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_a-crop-u264832.jpg" crc="3855710021" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_b-crop-u265362.jpg" crc="432367569" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_a-crop-u269922.jpg" crc="429584547" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_b-crop-u270452.jpg" crc="4031913654" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_a-crop-u26974.jpg" crc="404835068" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_b-crop-u27030.jpg" crc="4065364553" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_a-crop-u278872.jpg" crc="3913704880" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_b-crop-u279402.jpg" crc="3974241457" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_a-crop-u285432.jpg" crc="3959584137" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_b-crop-u285962.jpg" crc="4152801614" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_a-crop-u28525.jpg" crc="290376988" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_b-crop-u28581.jpg" crc="4095765534" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_a-crop-u288592.jpg" crc="4192358651" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_b-crop-u289122.jpg" crc="33547696" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_a-crop-u293682.jpg" crc="309168264" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_b-crop-u294212.jpg" crc="65812294" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_a-crop-u29350.jpg" crc="136769780" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_b-crop-u29406.jpg" crc="445287112" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_a-crop-u298772.jpg" crc="512626312" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_b-crop-u299302.jpg" crc="4169694524" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_a-crop-u29859.jpg" crc="3827518727" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_b-crop-u29915.jpg" crc="3958533214" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="banners_niños768x220.jpg" crc="4168912979" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d1_a-crop-u259303.jpg" crc="67846888" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d1_b-crop-u259833.jpg" crc="262583386" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d1_a-crop-u25912.jpg" crc="490019626" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d1_b-crop-u25968.jpg" crc="312051331" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_a-crop-u264833.jpg" crc="3829804799" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_b-crop-u265363.jpg" crc="4072196082" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_a-crop-u26465.jpg" crc="4272771554" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_b-crop-u26521.jpg" crc="160627266" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_a-crop-u269923.jpg" crc="84803521" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_b-crop-u270453.jpg" crc="3887724391" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_a-crop-u269742.jpg" crc="4291986633" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_b-crop-u270302.jpg" crc="470144218" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_a-crop-u278873.jpg" crc="458863259" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_b-crop-u279403.jpg" crc="41436510" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_a-crop-u27869.jpg" crc="3896084293" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_b-crop-u27925.jpg" crc="4283509496" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_a-crop-u285433.jpg" crc="4163558203" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_b-crop-u285963.jpg" crc="4262628241" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_a-crop-u285252.jpg" crc="3945347119" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_b-crop-u285812.jpg" crc="4290708288" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_a-crop-u288593.jpg" crc="517780727" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_b-crop-u289123.jpg" crc="3825218042" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_a-crop-u28841.jpg" crc="116825619" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_b-crop-u28897.jpg" crc="3839943164" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_a-crop-u293683.jpg" crc="200083611" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_b-crop-u294213.jpg" crc="448811651" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_a-crop-u293502.jpg" crc="4247847054" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_b-crop-u294062.jpg" crc="242027891" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_a-crop-u298773.jpg" crc="264804878" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_b-crop-u299303.jpg" crc="513297288" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_a-crop-u298592.jpg" crc="233236414" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_b-crop-u299152.jpg" crc="38483202" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="imagenes_square_niñas150x150.jpg" crc="476124454" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="imagenes_square_niños150x150.jpg" crc="157946329" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d1_a-crop-u259304.jpg" crc="328467654" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d1_b-crop-u259834.jpg" crc="332846608" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d1_a-crop-u259122.jpg" crc="3849463671" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d1_b-crop-u259682.jpg" crc="4148796929" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_a-crop-u264834.jpg" crc="3798357361" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_b-crop-u265364.jpg" crc="341752851" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_a-crop-u264652.jpg" crc="349863564" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d2_b-crop-u265212.jpg" crc="4259682531" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_a-crop-u269924.jpg" crc="3887009682" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_b-crop-u270454.jpg" crc="3978245576" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_a-crop-u269743.jpg" crc="4013138331" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d3_b-crop-u270303.jpg" crc="123164669" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_a-crop-u278874.jpg" crc="297952042" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_b-crop-u279404.jpg" crc="4231833138" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_a-crop-u278692.jpg" crc="4254537997" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="d4_b-crop-u279252.jpg" crc="4078259242" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_a-crop-u285434.jpg" crc="4147279843" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_b-crop-u285964.jpg" crc="4120362507" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_a-crop-u285253.jpg" crc="4013782248" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e1_b-crop-u285813.jpg" crc="456207515" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_a-crop-u288594.jpg" crc="536586414" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_b-crop-u289124.jpg" crc="218718176" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_a-crop-u288412.jpg" crc="183864909" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e2_b-crop-u288972.jpg" crc="320063145" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_a-crop-u293684.jpg" crc="527246631" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_b-crop-u294214.jpg" crc="4211993688" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_a-crop-u293503.jpg" crc="416958251" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e3_b-crop-u294063.jpg" crc="3842360093" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_a-crop-u298774.jpg" crc="183576635" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_b-crop-u299304.jpg" crc="212825116" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_a-crop-u298593.jpg" crc="248727792" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="e4_b-crop-u299153.jpg" crc="3957636207" seo="true" ref="niños">
+      <caption webpage="niños" alt=""/>
+    </file>
+    <file name="banners_envíos.jpg" crc="3783633078" seo="true" ref="información:métodos-de-envío">
+      <caption webpage="información" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+    </file>
+    <file name="banners_pagos.jpg" crc="3869876508" seo="true" ref="información:métodos-de-pago">
+      <caption webpage="información" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+    </file>
+    <file name="banners_envíos1200x344.jpg" crc="283738042" seo="true" ref="información">
+      <caption webpage="información" alt=""/>
+    </file>
+    <file name="banners_pagos1200x344.jpg" crc="525702024" seo="true" ref="información">
+      <caption webpage="información" alt=""/>
+    </file>
+    <file name="banners_envíos768x220.jpg" crc="3843753808" seo="true" ref="información">
+      <caption webpage="información" alt=""/>
+    </file>
+    <file name="banners_pagos768x220.jpg" crc="4137870217" seo="true" ref="información">
+      <caption webpage="información" alt=""/>
+    </file>
+    <file name="banners_envíos320x92.jpg" crc="4020621289" seo="true" ref="información">
+      <caption webpage="información" alt=""/>
+    </file>
+    <file name="banners_pagos320x92.jpg" crc="447533338" seo="true" ref="información">
+      <caption webpage="información" alt=""/>
+    </file>
+    <file name="imagenes_square_envíos_domicilio.jpg" crc="3876326814" seo="true" ref="métodos-de-envío">
+      <caption webpage="métodos-de-envío" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+    </file>
+    <file name="imagenes_square_retiro_en_tienda.jpg" crc="4283738960" seo="true" ref="métodos-de-envío">
+      <caption webpage="métodos-de-envío" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+    </file>
+    <file name="imagenes_camión.png" crc="4054320485" seo="true" ref="métodos-de-envío">
+      <caption webpage="métodos-de-envío" alt=""/>
+    </file>
+    <file name="imagenes_caja_square.png" crc="455296093" seo="true" ref="métodos-de-envío">
+      <caption webpage="métodos-de-envío" alt=""/>
+    </file>
+    <file name="imagenes_camión250x250.png" crc="4054320485" seo="true" ref="métodos-de-envío">
+      <caption webpage="métodos-de-envío" alt=""/>
+    </file>
+    <file name="imagenes_caja_square250x250.png" crc="455296093" seo="true" ref="métodos-de-envío">
+      <caption webpage="métodos-de-envío" alt=""/>
+    </file>
+    <file name="imagenes_camión200x200.png" crc="4054320485" seo="true" ref="métodos-de-envío">
+      <caption webpage="métodos-de-envío" alt=""/>
+    </file>
+    <file name="imagenes_caja_square200x200.png" crc="455296093" seo="true" ref="métodos-de-envío">
+      <caption webpage="métodos-de-envío" alt=""/>
+      <caption webpage="métodos-de-envío" alt=""/>
+    </file>
+    <file name="imagenes_square_envíos_domicilio150x150.jpg" crc="4243278788" seo="true" ref="métodos-de-envío">
+      <caption webpage="métodos-de-envío" alt=""/>
+    </file>
+    <file name="imagenes_square_retiro_en_tienda150x150.jpg" crc="3980644456" seo="true" ref="métodos-de-envío">
+      <caption webpage="métodos-de-envío" alt=""/>
+    </file>
+    <file name="imagenes_camión200x201.png" crc="4054320485" seo="true" ref="métodos-de-envío">
+      <caption webpage="métodos-de-envío" alt=""/>
+    </file>
+    <file name="imagenes_square_pagos_1.jpg" crc="210429264" seo="true" ref="métodos-de-pago">
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+    </file>
+    <file name="imagenes_square_pagos_2.jpg" crc="403481848" seo="true" ref="métodos-de-pago">
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+    </file>
+    <file name="imagenes_square_pagos_3.jpg" crc="330940122" seo="true" ref="métodos-de-pago">
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+    </file>
+    <file name="imagenes_square_pagos_4.jpg" crc="355586065" seo="true" ref="métodos-de-pago">
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+      <caption webpage="métodos-de-pago" alt=""/>
+    </file>
+    <file name="banners_1_mujer.jpg" crc="205469505" seo="true" ref="descuentos">
+      <caption webpage="descuentos" alt=""/>
+    </file>
+    <file name="banners_1_mujer1200x344.jpg" crc="3912067864" seo="true" ref="descuentos">
+      <caption webpage="descuentos" alt=""/>
+    </file>
+    <file name="banners_1_mujer768x220.jpg" crc="4059203525" seo="true" ref="descuentos">
+      <caption webpage="descuentos" alt=""/>
+    </file>
+    <file name="banners_1_mujer320x92.jpg" crc="3817376938" seo="true" ref="descuentos">
+      <caption webpage="descuentos" alt=""/>
+    </file>
+    <file name="banners_descuentos.jpg" crc="153963028" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_1.jpg" crc="288675074" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_2.jpg" crc="491210741" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_3.jpg" crc="4270099811" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_8.jpg" crc="3887081008" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_4.jpg" crc="4069268716" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_6.jpg" crc="3881587517" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_5.jpg" crc="373198815" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_7.jpg" crc="177491308" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="banners_descuentos1200x344.jpg" crc="4257578030" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_1250x250.jpg" crc="370108326" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_2250x250.jpg" crc="346238270" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_3250x250.jpg" crc="3807079435" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_8250x250.jpg" crc="304303268" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_4250x250.jpg" crc="365782733" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_6250x250.jpg" crc="3775191266" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_5250x250.jpg" crc="377548049" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_7250x250.jpg" crc="447832089" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="banners_descuentos768x220.jpg" crc="4046540765" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_1299x299.jpg" crc="267741969" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_2299x299.jpg" crc="4285445471" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_3299x299.jpg" crc="3791089469" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_8299x299.jpg" crc="130753568" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_4299x299.jpg" crc="4178091646" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_6299x299.jpg" crc="3777323069" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_5299x299.jpg" crc="3967387828" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_7299x299.jpg" crc="3979905043" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="banners_descuentos320x92.jpg" crc="104233555" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_1274x274.jpg" crc="352701572" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_2274x274.jpg" crc="3986755412" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_3274x274.jpg" crc="415440710" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_8274x274.jpg" crc="4073878812" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_4274x274.jpg" crc="48449234" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_6274x274.jpg" crc="4039418661" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_5274x274.jpg" crc="203672172" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="imagenes_descuentos_class_7274x274.jpg" crc="3832619574" seo="true" ref="back-to-class">
+      <caption webpage="back-to-class" alt=""/>
+    </file>
+    <file name="banners_insta.jpg" crc="387236951" seo="true" ref="visítanos:redes-sociales">
+      <caption webpage="visítanos" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="banners_tienda-física.jpg" crc="4116241923" seo="true" ref="visítanos:tienda-física">
+      <caption webpage="visítanos" alt=""/>
+      <caption webpage="tienda-física" alt=""/>
+    </file>
+    <file name="banners_insta1200x344.jpg" crc="376646919" seo="true" ref="visítanos">
+      <caption webpage="visítanos" alt=""/>
+    </file>
+    <file name="banners_tienda-física1200x344.jpg" crc="519027098" seo="true" ref="visítanos">
+      <caption webpage="visítanos" alt=""/>
+    </file>
+    <file name="banners_insta768x220.jpg" crc="3997632594" seo="true" ref="visítanos">
+      <caption webpage="visítanos" alt=""/>
+    </file>
+    <file name="banners_tienda-física768x220.jpg" crc="30718093" seo="true" ref="visítanos">
+      <caption webpage="visítanos" alt=""/>
+    </file>
+    <file name="banners_insta320x92.jpg" crc="212451701" seo="true" ref="visítanos">
+      <caption webpage="visítanos" alt=""/>
+    </file>
+    <file name="banners_tienda-física320x92.jpg" crc="4169885388" seo="true" ref="visítanos">
+      <caption webpage="visítanos" alt=""/>
+    </file>
+    <file name="pin_png.png" crc="3961120945" seo="true" ref="tienda-física">
+      <caption webpage="tienda-física" alt=""/>
+    </file>
+    <file name="pin_png250x250.png" crc="3961120945" seo="true" ref="tienda-física">
+      <caption webpage="tienda-física" alt=""/>
+    </file>
+    <file name="pin_png160x160.png" crc="4268968789" seo="true" ref="tienda-física">
+      <caption webpage="tienda-física" alt=""/>
+    </file>
+    <file name="pin_png67x67.png" crc="181504532" seo="true" ref="tienda-física">
+      <caption webpage="tienda-física" alt=""/>
+    </file>
+    <file name="imagenes_square_fb.jpg" crc="98318602" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_ig.jpg" crc="322798051" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_whatss.jpg" crc="4000587701" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_fb250x250.jpg" crc="210632619" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_ig250x250.jpg" crc="4154066064" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_whatss250x250.jpg" crc="3963750869" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_fb220x220.jpg" crc="4248041216" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_ig220x220.jpg" crc="4112197738" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_whatss220x220.jpg" crc="4230190889" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_fb90x90.jpg" crc="309996856" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_ig90x90.jpg" crc="427238244" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_whatss90x90.jpg" crc="4199613042" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_fb67x67.jpg" crc="3903183830" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_ig67x67.jpg" crc="3782528507" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+    <file name="imagenes_square_whatss67x67.jpg" crc="3774825044" seo="true" ref="redes-sociales">
+      <caption webpage="redes-sociales" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="66778033" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="catálogo.html" crc="4070551337" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="mujeres.html" crc="179577435" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="hombres.html" crc="205381896" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="infantil.html" crc="175590344" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="bebés.html" crc="4222797594" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="niños.html" crc="35041884" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="información.html" crc="4117012169" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="métodos-de-envío.html" crc="4046275661" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="métodos-de-pago.html" crc="334516388" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="descuentos.html" crc="4084958742" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="back-to-class.html" crc="4007494741" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="visítanos.html" crc="47760546" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="tienda-física.html" crc="429348002" seo="true" mt="1658722199312" redirect="true"/>
+  <file name="redes-sociales.html" crc="423595228" seo="true" mt="1658722199312" redirect="true"/>
+</manifest>
